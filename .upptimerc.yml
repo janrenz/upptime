@@ -12,6 +12,8 @@ sites:
     url: https://janrenz.de
   - name: TSC Api
     url: https://api.schulcloud-thueringen.de/version
+  - name: NBC Api
+    url: https://api.niedersachsen.cloud/version
 
 
 status-website:
