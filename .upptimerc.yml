@@ -8,6 +8,8 @@ sites:
     url: https://brandenburg.schul-cloud.org
   - name: BC
     url: https://hpi-schul-cloud.de
+  - name: janrenz.de
+    url: https://janrenz.de
 
 
 status-website:
