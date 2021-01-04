@@ -10,6 +10,8 @@ sites:
     url: https://hpi-schul-cloud.de
   - name: janrenz
     url: https://janrenz.de
+  - name: TSC Api
+    url: https://api.schulcloud-thueringen.de/version
 
 
 status-website:
