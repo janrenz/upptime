@@ -10,9 +10,9 @@ sites:
     url: https://hpi-schul-cloud.de
   - name: janrenz
     url: https://janrenz.de
-  - name: TSC Api
+  - name: TSCApi
     url: https://api.schulcloud-thueringen.de/version
-  - name: NBC Api
+  - name: NBCApi
     url: https://api.niedersachsen.cloud/version
 
 
